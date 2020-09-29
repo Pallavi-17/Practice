@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18833" started-at="2020-09-03T21:04:18 IST" finished-at="2020-09-03T21:04:37 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18833" started-at="2020-09-03T21:04:18 IST" finished-at="2020-09-03T21:04:37 IST">
+      <class name="HandleWindowOne">
+        <test-method status="PASS" signature="test_CloseAllWindowsExceptMainWindow()[pri:0, instance:HandleWindowOne@3a883ce7]" name="test_CloseAllWindowsExceptMainWindow" duration-ms="18761" started-at="2020-09-03T21:04:18 IST" finished-at="2020-09-03T21:04:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_CloseAllWindowsExceptMainWindow -->
+      </class> <!-- HandleWindowOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
